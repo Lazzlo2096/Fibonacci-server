@@ -8,3 +8,6 @@
 #*.exe
 *.out
 #*.app
+
+other/*
+/src/bin/*
